@@ -1,2 +1,2 @@
-Smart Money Hunter
+# Smart Money Hunter
 Smart Money Hunter is a tool designed to track, analyze, and visualize significant transactions—often referred to as "smart money" movements—in decentralized finance (DeFi) ecosystems. Whether you're a developer, trader, or enthusiast, this project aims to provide actionable insights into large-scale blockchain activities, helping you identify trends and potential opportunities in real time.
